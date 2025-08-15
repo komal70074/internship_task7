@@ -3,7 +3,7 @@
 Simple Sales Dashboard Design
 Objective:
 Create a basic interactive dashboard that shows sales performance by product, region, and month.
-🛠 Tools:
+ Tools:
 Power BI or Tableau (choose one)
 (Optional: Python + Pandas for cleaning)
  Dataset:
