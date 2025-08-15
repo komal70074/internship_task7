@@ -30,6 +30,6 @@ Donut Chart: Sales by Category
 4.Add a filter/slicer for Region or Category
 5.Use colors to highlight top-performing areas
 6.Write 3 short insights (example: “West region had the highest sales in Q3”)
+  filename : insight file
 
 
-Output of all condition are uploaded
